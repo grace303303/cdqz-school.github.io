@@ -7,6 +7,8 @@ title: Home
     <h1>成都七中北美校友会</h1>
     <p>让每一位七中人在北美都能找到归属感</p>
     <a href="#join" class="cta-button">加入我们</a>
+    <a href="http://lu.ma/cdqz" class="cta-button">活动日历</a>
+
 </section>
 
 <div class="features">
@@ -18,7 +20,7 @@ title: Home
     
     <div class="feature-card">
         <img src="/assets/images/events.svg" alt="Events Icon">
-        <h3>活动聚会</h3>
+        <h3><a href="http://lu.ma/cdqz">活动聚会</a></h3>
         <p>定期组织线上线下活动，重温校园情谊</p>
     </div>
     
@@ -28,6 +30,29 @@ title: Home
         <p>资深校友经验分享，帮助新生代校友发展</p>
     </div>
 </div>
+
+
+<section class="recent-posts">
+    <div class="container">
+        <h2>校友活动</h2>
+        <div class="posts-grid">
+            <iframe
+              src="https://lu.ma/embed/calendar/cal-T6Ukwd9haQqyPCA/events"
+              width="100%"
+              height="450"
+              frameborder="0"
+              style="border: 1px solid #bfcbda88; border-radius: 4px;"
+              allowfullscreen=""
+              aria-hidden="false"
+              tabindex="0"
+            ></iframe>
+        </div>
+        <div class="view-all">
+            <a href="http://lu.ma/cdqz" class="cta-button-secondary">查看所有活动，订阅日历</a>
+        </div>
+    </div>
+</section>
+
 
 <section class="recent-posts">
     <div class="container">
@@ -52,26 +77,11 @@ title: Home
 
 <section id="join" class="join-section">
     <div class="container">
-        <h2>加入我们</h2>
+        <h2>加入我们 - 请填写<a href="https://forms.gle/6FrMWwHEKqK4EcJn9" target="_blank">校友登记表</a></h2>
         <div class="join-content">
             <div class="join-grid">
                 <div class="contact-card">
-                    <h3>📧 电子邮件</h3>
-                    <p>发送邮件至：<a href="mailto:cdqz_alumni_admins@googlegroups.com">cdqz_alumni_admins@googlegroups.com</a></p>
-                    <p class="note">请在邮件中包含以下信息：</p>
-                    <ul>
-                        <li>姓名</li>
-                        <li>毕业年份</li>
-                        <li>目前所在城市</li>
-                        <li>职业/专业</li>
-                        <li>简单自我介绍</li>
-                    </ul>
-                </div>
-                
-                <div class="contact-card">
-                    <h3>💬 微信群</h3>
-                    <p>通过邮件联系我们获取加群方式</p>
-                    <p class="note">我们会在24小时内回复您的邮件，请注意查收</p>
+                    <p class="note">我们会尽快通过微信或邮件联系您，请注意查收</p>
                     <div class="faq-mini">
                         <p><strong>常见问题：</strong></p>
                         <ul>
